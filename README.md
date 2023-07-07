@@ -31,7 +31,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left" style="display:flex; flex-wrap:wrap; gap:4px; ">
 <a href="https://codepen.io/code_pen_username" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="code_pen_username" height="30" width="40" /></a>
 <a href="https://dev.to/dev_to_username" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev_to_username" height="30" width="40" /></a>
 <a href="https://twitter.com/twitter_username" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter_username" height="30" width="40" /></a>
