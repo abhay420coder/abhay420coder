@@ -1,5 +1,5 @@
 <h3 align="center">A passionate frontend developer from India</h3>
-<img src="[./Untitled design](https://github.com/abhay420coder/freeWork/tree/master/frontend/src/assets/image/portfolio_pic)/3.png" alt="./Untitled design/3.png" srcset="">
+<img src="https://github.com/abhay420coder/freeWork/blob/master/frontend/src/assets/image/portfolio_pic/5.png" alt="./Untitled design/3.png" srcset="">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhay420coder&label=Profile%20views&color=0e75b6&style=flat" alt="abhay420coder" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhay420coder" alt="abhay420coder" /></a> </p>
